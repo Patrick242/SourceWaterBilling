@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+
+#header-main-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    border: 1px solid rgba(245, 245, 245);
+}
+
+#userid {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-end;
+}
+
+#username {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#billbuttons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+#align-center-menu{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
