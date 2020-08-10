@@ -10,7 +10,7 @@
 
     <title>Home</title>
 
-  <link rel="stylesheet" media="screen" type="text/css" href="{{URL::to('css/style.css')}}"/> 
+  <link rel="stylesheet" media="screen" type="text/css" href="css/style.css"/> 
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
   </head>
   <body>
